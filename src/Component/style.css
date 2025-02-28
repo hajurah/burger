@@ -1,0 +1,122 @@
+.order {
+  background-color: rgb(126, 22, 22);
+  text-align: center;
+  padding: 20px;
+}
+.now {
+  background-color: red;
+  padding: 15px 15px;
+  border: none;
+  color: white;
+  text-align: center;
+  border-radius: 10px;
+  width: 150px;
+  font-size: 15px;
+  font-weight: 500;
+  margin-left: 5%;
+}
+.choose {
+  color: white;
+  margin-left: 20%;
+}
+.to {
+  background-color: red;
+  padding: 10px;
+  width: 9%;
+  height: 60px;
+  margin-left: 10%;
+  border: red;
+  border-radius: 5%;
+}
+.be {
+  color: rgb(126, 22, 22);
+  font-size: 5rem;
+  margin-left: 10%;
+  margin-top: 5%;
+}
+.destroyed {
+  color: rgb(126, 22, 22);
+  font-size: 5rem;
+  margin-left: 10%;
+}
+.des {
+  color: red;
+  font-size: 5rem;
+}
+.burger {
+  margin-left: 55%;
+  top: 50%;
+  width: 30%;
+}
+.cor {
+  background-color: red;
+}
+.se {
+  margin-right: 200px;
+}
+
+.home-text {
+  max-width: 45%;
+}
+.home-text h1 {
+  font-size: 4rem;
+  color: rgb(126, 22, 22);
+  font-weight: 700;
+}
+.home-text h1 span {
+  color: red;
+}
+.home-text button {
+  background-color: red;
+  padding: 20px 20px;
+  border: none;
+  color: white;
+  text-align: center;
+  border-radius: 10px;
+  width: 200px;
+  font-size: 18px;
+  font-weight: 600;
+}
+.body {
+  background-color: red;
+  padding: 5%;
+}
+.secord-body{
+  background-color: white;
+  padding: 10%;
+  border-radius: 20px;
+  width: 90%;
+  margin-left: 6%;
+  
+}
+.body-text h2{
+  margin-left: 55%;
+  font-weight: 700;
+  font-size: 2rem;
+}
+.body-text p{
+  margin-left: 55%;
+   font-weight: 500;
+   font-size: 1rem;
+
+}
+.body-text button{
+  background-color: red;
+  padding: 20px 20px;
+  border: none;
+  color: white;
+  text-align: center;
+  border-radius: 10px;
+  width: 200px;
+  font-size: 18px;
+  font-weight: 600;
+  float: right;
+  
+}
+.secord-buttom{
+  margin-right: 4%;
+}
+.body-img{
+  max-width: 100%;
+}
+
