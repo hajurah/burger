@@ -77,46 +77,130 @@
   font-size: 18px;
   font-weight: 600;
 }
-.body {
+.fries {
   background-color: red;
-  padding: 5%;
+  display: flex;
+  justify-content: center;
+  padding-block: 20px;
 }
-.secord-body{
+.free_fries {
   background-color: white;
-  padding: 10%;
   border-radius: 20px;
-  width: 90%;
-  margin-left: 6%;
-  
+  width: 75%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-.body-text h2{
-  margin-left: 55%;
+.free_text h2 {
   font-weight: 700;
   font-size: 2rem;
 }
-.body-text p{
-  margin-left: 55%;
-   font-weight: 500;
-   font-size: 1rem;
-
+.free_text p {
+  font-weight: 500;
+  font-size: 1rem;
 }
-.body-text button{
+.free_text button {
   background-color: red;
   padding: 20px 20px;
   border: none;
   color: white;
   text-align: center;
   border-radius: 10px;
+  /* width: 100px; */
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.body-img {
+  max-width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  
+}
+.free{
+   border-radius:7%;
+   padding:20px;
+}
+.mar{
+  width: 20%;
+
+}
+.ma{
+  width: 20%;
+   margin-right: 9%;
+   
+}
+.ar{
+  width: 20%;
+  margin-left: 9%;
+}
+.body-img button{
+  background-color: white;
+  padding: 15px 20px;
+  border: black;
+  color: black;
+  text-align: center;
+  border-radius: 10px;
   width: 200px;
   font-size: 18px;
   font-weight: 600;
-  float: right;
-  
 }
-.secord-buttom{
-  margin-right: 4%;
+.secord{
+  width: 30%; 
 }
-.body-img{
-  max-width: 100%;
+.secord-img{
+  max-width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
 }
+.se{
+  margin-right: 3%;
+  width: 30%; 
+}
+.cord{
+  margin-left: 3%;
+  width: 20%; 
+}
+.secord-img button{
+   background-color: white;
+  padding: 15px 20px;
+  color: black;
+  border: black;
+  text-align: center;
+  border-radius: 10px;
+  width: 200px;
+  font-size: 18px;
+  font-weight: 600;
 
+}
+.spun{
+  background-color: brown;
+  color: white;
+
+
+}
+.img{
+  margin-left: 40%;
+  max-width: 80%;
+  display: flex;
+  margin: auto;
+  padding: 20px;
+  border-radius: 5%;
+}
+.text{
+  font-weight: 700;
+  font-size: 40px;
+  margin-left: 10%;
+}
+.text2{
+  font-weight: 500;
+  font-size: 1rem;
+   margin-left: 10%;
+}
+.text3{
+  margin-top: 5%;
+}

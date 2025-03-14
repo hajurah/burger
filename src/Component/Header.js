@@ -10,7 +10,7 @@ export default function Header() {
         <div className="header">
           <div className="logo">
             <h5 className="ha">
-              HAJURAH`S <span>BURGER</span>
+              HAJURAH`S<br/> <span>BURGER</span>
             </h5>
           </div>
           <div className="menu">
